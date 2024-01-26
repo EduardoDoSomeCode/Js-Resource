@@ -29,7 +29,7 @@ Feel free to navigate through the folders based on your learning goals.
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/js-exercises-data-structures-design-patterns.git
+    git clone [https://github.com/your-username/js-exercises-data-structures-design-patterns.git](https://github.com/EduardoDoSomeCode/Js-Resource.git)
     ```
 
 2. Explore the folders:
