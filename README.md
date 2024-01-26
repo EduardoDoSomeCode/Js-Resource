@@ -9,7 +9,6 @@ Welcome to the JavaScript Exercises, Data Structures, and Design Patterns reposi
 2. [Structure](#structure)
 3. [How to Use](#how-to-use)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Introduction
 
